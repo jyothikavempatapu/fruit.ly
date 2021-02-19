@@ -8,5 +8,6 @@ void main()
   scanf("%d",&b);
   c=a+b;
   printf("%d",c);
+  printf("addition of 2 num");
 }
   
